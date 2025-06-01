@@ -2,20 +2,18 @@
 ## <div align="center">Woni's Github</div>
 
 <!--내용 부분-->
-### <h3 align="center"> Tech Stack</h3>
-<div align="center"></div>
+### <h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/></div>
 
-<!--
-**dhwodnjs0827/dhwodnjs0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h3 align="center">🛠️ Tools 🛠️</h3>
+<div align="center"><img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=dhwodnjs0827&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhwodnjs0827&layout=compact" alt="Top Langs" />
+</p>
